@@ -7,7 +7,7 @@
   * Frameworks/ Libraries
     - Flutter, Django, Bootstrap, JavaFx
   * Technologies
-    - Git, Github, Github Actions, TravisCI, Heroku
+    - Git, Github, Github Actions, TravisCI, Heroku, Firebase, Xampp, GIMP
     
 ### Get in touch
   * Linkedin https://www.linkedin.com/in/alan-dsilva-289b77170/
