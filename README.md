@@ -3,7 +3,7 @@
   
 ### What I often type
   * Languages
-    - C, Java, Python, PHP, SQL, HTML, CSS, JavaScript, Dart, Json
+    - C, Java, Python, PHP, SQL, HTML, CSS, JavaScript, Dart
   * Frameworks/ Libraries
     - Flutter, Django, Bootstrap, JavaFx
   * Technologies
