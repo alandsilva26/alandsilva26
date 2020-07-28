@@ -1,6 +1,6 @@
 ## Alan Dsilva - @alandsilva26♉
 <!-- <img  src="https://raw.githubusercontent.com/alandsilva26/alandsilva26/master/itachi.gif" width="300" align="right"></img> -->
-  👋 Hi I am Alan - a computer science engineer currently persuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I write code for web💻 and android applications📱. I hate vegetables. In my free time I like to play videogames🎮. Occasionally I try to read big fat novels. I am a huge Harry Potter fan💜
+  👋 Hi I am Alan - a computer science engineer currently persuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I write code for web💻 and android applications📱. In my free time I like to play videogames🎮. Occasionally I try to read big fat novels. I am a huge Harry Potter fan💜
   
 ### What I often type
   * Languages
