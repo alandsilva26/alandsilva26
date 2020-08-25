@@ -1,6 +1,6 @@
 ## Alan Dsilva - @alandsilva26♉
 <!-- <img  src="https://raw.githubusercontent.com/alandsilva26/alandsilva26/master/itachi.gif" width="300" align="right"></img> -->
-  👋 Hi I am Alan - a computer science engineer currently persuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I code for fun and professional reasons. Most of the time I am funny always. In my free time I like to play videogames🎮. Occasionally I watch anime. I was in the school band so one might say that my taste in music is pretty loud. 
+  👋 **Hi I am Alan - a computer science engineer currently persuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I code for fun and professional reasons. Most of the time I am funny always. In my free time I like to play videogames🎮. Occasionally I watch anime. I was in the school band so one might say that my taste in music is pretty loud.**
   
 * Languages
   - C, Java, Python, PHP, SQL, HTML, CSS, JavaScript, Dart
