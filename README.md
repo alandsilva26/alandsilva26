@@ -6,9 +6,9 @@
   * Languages
     - C, Java, Python, PHP, SQL, HTML, CSS, JavaScript, Dart
   * Frameworks/ Libraries
-    - Flutter, Django, Bootstrap, JavaFx
+    - Flutter,Jquery, D3.js, Sass Django, Bootstrap, JavaFx
   * Technologies
-    - Git, Github, Github Actions, TravisCI, Heroku, Firebase, Xampp, GIMP
+    - Git, Github, Github Actions, TravisCI, Heroku, Firebase, Xampp, GIMP, npm
     
 ### Get in touch
   * Linkedin https://www.linkedin.com/in/alan-dsilva-289b77170/
