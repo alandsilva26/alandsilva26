@@ -2,7 +2,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=alandsilva26&color=ff69b4" alt="profile views" /> -->
 
-  👋 **Hi I am Alan - a computer science engineer currently pursuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I code for fun and professional reasons. I create software for android and web platforms. In my free time I like to play videogames(CSGO)🎮. Occasionally I watch anime(Mostly Naruto on repeat).**
+  👋 **Hi I am Alan - a computer science engineer currently pursuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I code for fun and professional reasons. I create software for android and web platforms. In my free time I like to play videogames🎮. Occasionally I watch anime.**
   
 * **Languages**
   - C, Java, Python, PHP, SQL, HTML, CSS, JavaScript, Dart
