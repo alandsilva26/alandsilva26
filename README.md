@@ -11,10 +11,7 @@
 * **Technologies**
   - Git, Github, Github Actions, TravisCI, Heroku, Firebase, Xampp, GIMP, npm
     
-<h3 align="center">Get in touch</h3>
-<p align="center">
-  <a href="https://alandsilva.netlify.app">Personal Website</a>
-  <code>alandsilva2001@gmail.com</code> <br /><br />
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com"><img src="./gmail.png" alt="Email link"/></a>
-  <a href="https://www.linkedin.com/in/alan-dsilva-289b77170/"><img src="./linkedin.png" alt="Email link" /></a>
-</p>
+### Get in touch
+* Personal Website - [https://alandsilva.netlify.app](https://alandsilva.netlify.app)
+* Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
+* Linkedin - [https://www.linkedin.com/in/alan-dsilva-289b77170](https://www.linkedin.com/in/alan-dsilva-289b77170)
