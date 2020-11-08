@@ -7,7 +7,7 @@
 * **Languages**
   - C, Java, Python, PHP, SQL, HTML, CSS, JavaScript, Dart
 * **Frameworks/ Libraries**
-  - Flutter, React, Jquery, D3.js, Sass Django, Bootstrap, JavaFx
+  - Flutter, React, Jquery, Sass, Django, Bootstrap, JavaFx
 * **Technologies**
   - Git, Github, Github Actions, TravisCI, Heroku, Firebase, Xampp, GIMP, npm
     
