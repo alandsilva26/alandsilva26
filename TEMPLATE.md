@@ -16,7 +16,12 @@
 * Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
 * Linkedin - [https://www.linkedin.com/in/alan-dsilva-289b77170](https://www.linkedin.com/in/alan-dsilva-289b77170)
 
+Account age: **{{ ACCOUNT_AGE }}** years
 
-{{ LANGUAGE_TEMPLATE_START:max=15 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label={{LANGUAGE_NAME:uri}}&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+Pushed **{{ COMMITS }}** commits
+
+Top 10 most used languages across my repositories:
+
+{{ LANGUAGE_TEMPLATE_START:max=10 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
