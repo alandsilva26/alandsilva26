@@ -45,8 +45,13 @@ languages = [
     },
 ]
 
-
+finalString = ""
 for lang in languages:
-    template = "![{name}](https://img.shields.io/static/v1?style=flat&label=%20&labelColor=%23555&logo={logo}&logoColor=%23{logoColor}&message={message}&color=%23{color})".format(
-        name=lang["message"], logo=lang["logo"], logoColor=lang["logoColor"], message=lang["message"], color=lang["color"])
-    print(template)
+    # template = "![{name}](https://img.shields.io/static/v1?style=flat&label=%20&labelColor=%23555&logo={logo}&logoColor=%23{logoColor}&message={message}&color=%23{color})".format(
+    #     name=lang["message"], logo=lang["logo"], logoColor=lang["logoColor"], message=lang["message"], color=lang["color"])
+    template = "![{name}](https://img.shields.io/static/v1?style=flat&label=&message={message}&color=%23{color})".format(
+        name=lang["message"],  message=lang["message"], color=lang["color"])
+
+    finalString += template.strip() + " "
+
+print(finalString)
