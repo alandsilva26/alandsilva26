@@ -9,7 +9,7 @@
 ##### Frameworks/ Libraries
 ![Flutter](https://img.shields.io/static/v1?style=flat&label=&message=Flutter&color=blueviolet) ![React](https://img.shields.io/static/v1?style=flat&label=&message=React&color=brightgreen) ![Django](https://img.shields.io/static/v1?style=flat&label=&message=Django&color=red) ![Sass](https://img.shields.io/static/v1?style=flat&label=&message=Sass&color=yellow) ![Bootstrap](https://img.shields.io/static/v1?style=flat&label=&message=Bootstrap&color=orange) ![Jquery](https://img.shields.io/static/v1?style=flat&label=&message=Jquery&color=green)
 ##### Technologies
-![Docker](https://img.shields.io/static/v1?style=flat&label=&message=Docker&color=yellow) ![Git](https://img.shields.io/static/v1?style=flat&label=&message=Git&color=orange) ![Github%20Actions](https://img.shields.io/static/v1?style=flat&label=&message=Github%20Actions&color=green) ![Firebase](https://img.shields.io/static/v1?style=flat&label=&message=Firebase&color=blue)
+![Docker](https://img.shields.io/static/v1?style=flat&label=&message=Docker&color=blue) ![Git](https://img.shields.io/static/v1?style=flat&label=&message=Git&color=blueviolet) ![Github%20Actions](https://img.shields.io/static/v1?style=flat&label=&message=Github%20Actions&color=brightgreen) ![Firebase](https://img.shields.io/static/v1?style=flat&label=&message=Firebase&color=red)
     
 ### Get in touch
 * Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
