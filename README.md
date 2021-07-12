@@ -1,7 +1,7 @@
 ### My stats
 
 <a href="https://alandsilva.netlify.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alandsilva26&show_icons=true&theme=material-palenight&hide_rank=false&include_all_commits=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alandsilva26&show_icons=true&theme=material-palenight&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://alandsilva.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandsilva26&layout=compact&theme=material-palenight&hide_rank=false&include_all_commits=true&hide_border=true&langs_count=8" />
