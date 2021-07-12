@@ -1,3 +1,13 @@
+### My stats
+
+<a href="https://alandsilva.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alandsilva26&show_icons=true&theme=material-palenight&hide_rank=false&include_all_commits=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://alandsilva.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandsilva26&layout=compact&theme=material-palenight&hide_rank=false&include_all_commits=true&hide_border=true&langs_count=8" />
+</a>
+
+
 <h1 align="center">Alan Dsilva - @alandsilva26♉</h1>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=alandsilva26&color=ff69b4" alt="profile views" /> -->
@@ -15,3 +25,10 @@
 * Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
 * Linkedin - [https://www.linkedin.com/in/alan-dsilva-289b77170](https://www.linkedin.com/in/alan-dsilva-289b77170)
 * Website - [https://alandsilva.netlify.app](https://alandsilva.netlify.app)
+
+### My stats
+
+| ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandsilva26&show_icons=true&theme=buefy&hide_rank=false&include_all_commits=true&hide_border=true  ) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandsilva26&layout=compact&theme=buefy&hide_rank=false&include_all_commits=true&hide_border=true&langs_count=10) |
+|---|---|
+
+
