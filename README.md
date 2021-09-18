@@ -2,9 +2,10 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=alandsilva26&color=ff69b4" alt="profile views" /> -->
 
-  👋 **Hi I am Alan - a computer science engineer currently pursuing my bachelors degree at [St. Francis Institute of Technology](https://www.sfit.ac.in/). I code for fun and professional reasons. I love to create projects in React.js and Flutter. In my free time I like to play videogames🎮. Occasionally I watch anime.**
+  👋 Hi I am [Alan](https://alandsilva.netlify.app) passionate, self taught full stack web developer. 
+
 <!--
-#### Languages
+#### I can code in
 ![Dart](https://img.shields.io/static/v1?style=flat&label=&message=Dart&color=%2300B4AB) ![HTML](https://img.shields.io/static/v1?style=flat&label=&message=HTML&color=%23e44b23) ![JavaScript](https://img.shields.io/static/v1?style=flat&label=&message=JavaScript&color=%23f1e05a) ![PHP](https://img.shields.io/static/v1?style=flat&label=&message=PHP&color=%234F5D95) ![CSS](https://img.shields.io/static/v1?style=flat&label=&message=CSS&color=%23563d7c) ![Java](https://img.shields.io/static/v1?style=flat&label=&message=Java&color=%23b07219) ![Python](https://img.shields.io/static/v1?style=flat&label=&message=Python&color=%233572A5) ![C](https://img.shields.io/static/v1?style=flat&label=&message=C&color=%23555555)
 #### Frameworks/ Libraries
 ![Flutter](https://img.shields.io/static/v1?style=flat&label=&message=Flutter&color=blueviolet) ![React](https://img.shields.io/static/v1?style=flat&label=&message=React&color=brightgreen) ![Django](https://img.shields.io/static/v1?style=flat&label=&message=Django&color=red) ![Sass](https://img.shields.io/static/v1?style=flat&label=&message=Sass&color=yellow) ![Bootstrap](https://img.shields.io/static/v1?style=flat&label=&message=Bootstrap&color=orange) ![Jquery](https://img.shields.io/static/v1?style=flat&label=&message=Jquery&color=green)
