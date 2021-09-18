@@ -2,7 +2,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=alandsilva26&color=ff69b4" alt="profile views" /> -->
 
-  👋 Hi I am [Alan](https://alandsilva.netlify.app) passionate, self taught full stack web developer. 
+  👋 Hi I am [Alan](https://alandsilva.netlify.app) passionate, self taught full stack developer. 
 
 <!--
 #### I can code in
