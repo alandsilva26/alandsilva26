@@ -2,8 +2,15 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=alandsilva26&color=ff69b4" alt="profile views" /> -->
 
-  👋 Hi I am [Alan](https://alandsilva.netlify.app) a computer engineer. Passionate about learning, building and developing.
-
+  👋 Hi I am [Alan Dsilva](https://alandsilva.netlify.app) a computer engineer. Passionate about learning, building and developing.
+  
+  - 🔭 &nbsp;I’m currently working on my college projects!!
+  - 🌱 &nbsp;I’m currently learning NodeJs
+  - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Flutter/ React
+  - Get in touch
+    * Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
+    * Linkedin - [https://www.linkedin.com/in/alan-dsilva-289b77170](https://www.linkedin.com/in/alan-dsilva-289b77170)
+    * Website - [https://alandsilva.netlify.app](https://alandsilva.netlify.app)
 <!--
 #### I can code in
 ![Dart](https://img.shields.io/static/v1?style=flat&label=&message=Dart&color=%2300B4AB) ![HTML](https://img.shields.io/static/v1?style=flat&label=&message=HTML&color=%23e44b23) ![JavaScript](https://img.shields.io/static/v1?style=flat&label=&message=JavaScript&color=%23f1e05a) ![PHP](https://img.shields.io/static/v1?style=flat&label=&message=PHP&color=%234F5D95) ![CSS](https://img.shields.io/static/v1?style=flat&label=&message=CSS&color=%23563d7c) ![Java](https://img.shields.io/static/v1?style=flat&label=&message=Java&color=%23b07219) ![Python](https://img.shields.io/static/v1?style=flat&label=&message=Python&color=%233572A5) ![C](https://img.shields.io/static/v1?style=flat&label=&message=C&color=%23555555)
@@ -12,11 +19,6 @@
 #### Technologies
 ![Docker](https://img.shields.io/static/v1?style=flat&label=&message=Docker&color=blue) ![Git](https://img.shields.io/static/v1?style=flat&label=&message=Git&color=blueviolet) ![Github%20Actions](https://img.shields.io/static/v1?style=flat&label=&message=Github%20Actions&color=brightgreen) ![Firebase](https://img.shields.io/static/v1?style=flat&label=&message=Firebase&color=red)
 -->
-    
-### Get in touch
-* Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
-* Linkedin - [https://www.linkedin.com/in/alan-dsilva-289b77170](https://www.linkedin.com/in/alan-dsilva-289b77170)
-* Website - [https://alandsilva.netlify.app](https://alandsilva.netlify.app)
 
 ### My stats
 
