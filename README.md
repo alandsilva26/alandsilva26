@@ -21,10 +21,10 @@
 
 ### My stats
 
-<a href="https://alandsilva.netlify.app/">
+<a href="https://alandsilva.netlify.app?refer=githubreadme">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alandsilva26&show_icons=true&theme=material-palenight&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://alandsilva.netlify.app/">
+<a href="https://alandsilva.netlify.app?refer=githubreadmetoplanguages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alandsilva26&layout=compact&theme=material-palenight&hide_rank=false&include_all_commits=true&hide_border=true&langs_count=8" />
 </a>
 
