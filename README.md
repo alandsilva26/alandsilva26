@@ -5,7 +5,7 @@
   👋 Hi I am [Alan Dsilva](https://alandsilva.netlify.app) a computer engineer. Passionate about learning, building and developing.
   
   - 🔭 &nbsp;I’m currently working on my college projects!!
-  - 🌱 &nbsp;I’m interested in full stack development currently learning about node, serverless, aws.
+  - 🌱 &nbsp;I’m interested in full stack development currently learning about the node ecosystem.
   - Get in touch
     * Email - [alandsilva2001@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=alandsilva2001@gmail.com)
     * Linkedin - [https://www.linkedin.com/in/alan-dsilva-289b77170](https://www.linkedin.com/in/alan-dsilva-289b77170)
