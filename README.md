@@ -33,4 +33,16 @@
 | ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandsilva26&show_icons=true&theme=buefy&hide_rank=false&include_all_commits=true&hide_border=true  ) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandsilva26&layout=compact&theme=buefy&hide_rank=false&include_all_commits=true&hide_border=true&langs_count=10) |
 |---|---| -->
 
+### Wakatime Stats
+<details>
+  <table>
+    <tr>
+      <td>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad52d1fa-4546-45ea-a0cc-d35874dffd51/9807c928-3d08-439d-8b91-f314cf907610.png" /></a>
+      </td>
+      <td>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad52d1fa-4546-45ea-a0cc-d35874dffd51/d585974e-0aef-426b-b0e2-c4dc89e8b931.png" /></a>
+      </td>
+    </tr>
+</details>
 
