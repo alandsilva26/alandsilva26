@@ -40,10 +40,10 @@ test
   <table>
     <tr>
       <td>
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad52d1fa-4546-45ea-a0cc-d35874dffd51/16f0057d-410c-4bbf-9583-bcbe7fab1557.png" /></a>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad52d1fa-4546-45ea-a0cc-d35874dffd51/17d60d06-200c-4f3a-b903-1fecad2e65fe.png" /></a>
       </td>
       <td>
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad52d1fa-4546-45ea-a0cc-d35874dffd51/f83a18a9-aa03-4e64-96c9-4caa47265782.png" /></a>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad52d1fa-4546-45ea-a0cc-d35874dffd51/6b343101-ee2d-4de4-9ef9-e861d9306841.png" /></a>      
       </td>
     </tr>
 </details>
